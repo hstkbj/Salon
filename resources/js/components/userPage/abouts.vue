@@ -31,14 +31,14 @@
                     <div class="appear-animation block-appear-animation" data-appear-animation="blockSlide blockSlideToRight">
                         <div class="block-appear-animation-wrapper">
                             <div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'nav': false, 'dots': false, 'autoplay': true, 'autoplayTimeout': 2000, 'margin': 10, 'animateOut': 'fadeOut'}">
-                                <div>
-                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-1.jpg">
+                                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-6.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                                 </div>
-                                <div>
-                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-2.jpg">
+                                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-7.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                                 </div>
-                                <div>
-                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-3.jpg">
+                                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-8.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                                 </div>
                             </div>
                         </div>
@@ -48,11 +48,11 @@
                     <div class="appear-animation block-appear-animation" data-appear-animation="blockSlide blockSlideToRight">
                         <div class="block-appear-animation-wrapper">
                             <div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'nav': false, 'dots': false, 'autoplay': true, 'autoplayTimeout': 3000, 'margin': 10, 'animateOut': 'fadeOut'}">
-                                <div>
-                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-4.jpg">
+                                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-9.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                                 </div>
-                                <div>
-                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-5.jpg">
+                                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                                    <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-10.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                                 </div>
                             </div>
                         </div>
