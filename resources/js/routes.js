@@ -4,8 +4,36 @@ const routes = [
     //User Page
     {
         path:"/",
-        component:() => import('./components/userPage/accueil.vue')
+        component:() => import('./components/constant/ContentWrap.vue'),
+        children:[
+            {
+                path:'',
+                component: ()=>import('./components/userPage/accueil.vue')
+            },
+            {
+                path:"/about-us",
+                component:() => import('./components/userPage/abouts.vue')
+            },
+            {
+                path:"/service",
+                component:() => import('./components/userPage/service.vue')
+            },
+            {
+                path:"/gallery",
+                component:() => import('./components/userPage/gallery.vue')
+            },
+            {
+                path:"/blog",
+                component:() => import('./components/userPage/blog.vue')
+            },
+            {
+                path:"/contact",
+                component:() => import('./components/userPage/contact.vue')
+            },
+        ]
     },
+    
+
     //Admin Page
     {
         path:'/admin',
