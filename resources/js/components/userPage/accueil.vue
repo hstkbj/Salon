@@ -8,7 +8,7 @@
 
           <!-- Carousel Slide 1 -->
           <div class="owl-item position-relative overflow-hidden">
-            <div class="background-image-wrapper p-absolute top-0 left-0 right-0 bottom-0" data-appear-animation="kenBurnsToLeft" data-appear-animation-duration="30s" data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show style="background-image: url(img/demos/beauty-salon/slides/slide-1.jpg); background-size: cover; background-position: center;"></div>
+            <div class="background-image-wrapper p-absolute top-0 left-0 right-0 bottom-0" data-appear-animation="kenBurnsToLeft" data-appear-animation-duration="30s" data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, 1) 100%), url(img/demos/beauty-salon/slides/slide-3.jpg); background-size: cover; background-position: center;"></div>
             <div class="container position-relative z-index-3 h-100">
               <div class="row align-items-center justify-content-start h-100">
                 <div class="col-lg-8 col-xl-7 text-center text-md-start">
@@ -37,7 +37,7 @@
 
           <!-- Carousel Slide 2 -->
           <div class="owl-item position-relative overflow-hidden">
-            <div class="background-image-wrapper p-absolute top-0 left-0 right-0 bottom-0" data-appear-animation="kenBurnsToRight" data-appear-animation-duration="30s" data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show style="background-image: url(img/demos/beauty-salon/slides/slide-2.jpg); background-size: cover; background-position: center;"></div>
+            <div class="background-image-wrapper p-absolute top-0 left-0 right-0 bottom-0" data-appear-animation="kenBurnsToRight" data-appear-animation-duration="30s" data-plugin-options="{'minWindowWidth': 0}" data-carousel-onchange-show style="background-image: linear-gradient(to bottom, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, 1) 100%), url(img/demos/beauty-salon/slides/slide-4.jpg); background-size: cover; background-position: center;"></div>
             <div class="container position-relative z-index-3 h-100">
               <div class="row align-items-center justify-content-end h-100">
                 <div class="col-lg-7 text-center text-md-end">
@@ -79,20 +79,20 @@
           <div class="appear-animation block-appear-animation" data-appear-animation="blockSlide blockSlideToRight">
             <div class="block-appear-animation-wrapper">
               <div class="owl-carousel owl-theme" data-plugin-options="{'items': 1, 'nav': false, 'dots': false, 'autoplay': true, 'autoplayTimeout': 2000, 'margin': 10, 'animateOut': 'fadeOut'}">
-                <div>
-                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-1.jpg">
+                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-6.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
-                <div>
-                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-2.jpg">
+                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-7.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
-                <div>
-                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-3.jpg">
+                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-8.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
-                <div>
-                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-4.jpg">
+                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-9.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
-                <div>
-                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-5.jpg">
+                <div style="display: flex; align-items: center; justify-content: center; width: 451px; height: 400px;">
+                  <img class="img-fluid" src="../../../../public/img/demos/beauty-salon/generic/generic-10.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
               </div>
             </div>
@@ -269,8 +269,8 @@
                 QUICK VIEW
               </a>
               <a href="shop-product-sidebar-left.html">
-                <div class="product-thumb-info-image bg-light">
-                  <img alt="" class="img-fluid" src="../../../../public/img/demos/beauty-salon/products/product-1.jpg">
+                <div class="product-thumb-info-image bg-light" style="display: flex; align-items: center; justify-content: center; width: 358px; height: 358px;">
+                  <img alt="" class="img-fluid" src="../../../../public/img/demos/beauty-salon/products/product-4.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
               </a>
             </div>
@@ -304,8 +304,8 @@
                 QUICK VIEW
               </a>
               <a href="shop-product-sidebar-left.html">
-                <div class="product-thumb-info-image bg-light">
-                  <img alt="" class="img-fluid" src="../../../../public/img/demos/beauty-salon/products/product-2.jpg">
+                <div class="product-thumb-info-image bg-light" style="display: flex; align-items: center; justify-content: center; width: 358px; height: 358px;">
+                  <img alt="" class="img-fluid" src="../../../../public/img/demos/beauty-salon/products/product-5.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
               </a>
             </div>
@@ -339,8 +339,8 @@
                 QUICK VIEW
               </a>
               <a href="shop-product-sidebar-left.html">
-                <div class="product-thumb-info-image bg-light">
-                  <img alt="" class="img-fluid" src="../../../../public/img/demos/beauty-salon/products/product-3.jpg">
+                <div class="product-thumb-info-image bg-light" style="display: flex; align-items: center; justify-content: center; width: 358px; height: 358px;">
+                  <img alt="" class="img-fluid" src="../../../../public/img/demos/beauty-salon/products/product-6.jpg" style="max-width: 100%; max-height: 100%; width: 100%; height: 100%; object-fit: cover;">
                 </div>
               </a>
             </div>
@@ -367,7 +367,7 @@
     <div class="container-fluid">
       <div class="row align-items-center">
         <div class="col-lg-6 p-0">
-          <section class="section section-background bg-size-cover p-relative h-100 m-0" style="background: url(img/demos/beauty-salon/backgrounds/background-1.jpg); min-height: 500px;">
+          <section class="section section-background bg-size-cover p-relative h-100 m-0" style="background: linear-gradient(to bottom, rgba(255, 255, 255, .2) 0%, rgba(255, 255, 255, .3) 100%), url(img/demos/beauty-salon/backgrounds/background-3.jpg); min-height: 500px;">
             <div class="p-absolute bottom-10 right-10 rotate-l-90 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300" data-plugin-options="{'minWindowWidth': 0}">
               <img width="123" height="126" src="../../../../public/img/demos/beauty-salon/generic/dots.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': ''}" />
             </div>
@@ -408,7 +408,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 p-0">
-          <section class="section section-background bg-size-cover p-relative h-100 m-0" style="background: url(img/demos/beauty-salon/backgrounds/background-2.jpg); min-height: 500px;">
+          <section class="section section-background bg-size-cover p-relative h-100 m-0" style="background: linear-gradient(to bottom, rgba(255, 255, 255, .3) 0%, rgba(255, 255, 255, .3) 100%), url(img/demos/beauty-salon/backgrounds/background-4.jpg); min-height: 500px;">
             <div class="p-absolute top-10 left-10 rotate-r-90 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="600" data-plugin-options="{'minWindowWidth': 0}">
               <img width="123" height="126" src="../../../../public/img/demos/beauty-salon/generic/dots.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': ''}" />
             </div>
@@ -418,7 +418,7 @@
     </div>
 
     <!-- Section Partenaire -->
-    <section class="section bg-transparent p-relative border-0 m-0 p-0">
+    <!-- <section class="section bg-transparent p-relative border-0 m-0 p-0">
       <div class="container py-5">
         <div class="row align-items-center text-center py-5">
           <div class="col-sm-4 col-lg-2 mb-5 mb-lg-0">
@@ -441,10 +441,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Section Blog -->
-    <section class="section bg-secondary p-relative border-0 m-0 p-0">
+    <section class="section bg-secondary p-relative border-0 m-0 p-0 mt-5">
       <div class="p-absolute top-10 left-10 rotate-r-90 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="600" data-plugin-options="{'minWindowWidth': 0}">
         <img width="123" height="126" src="../../../../public/img/demos/beauty-salon/generic/dots.svg" alt="" data-icon data-plugin-options="{'onlySVG': true, 'extraClass': ''}" />
       </div>
