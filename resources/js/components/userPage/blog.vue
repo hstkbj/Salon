@@ -24,7 +24,7 @@
 
                     <div class="row justify-content-center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
                         <div class="col-md-6 mb-4">
-                            <a href="demo-beauty-salon-blog-post.html" class="text-decoration-none">
+                            <router-link to="/blogDetail" class="text-decoration-none">
                                 <div class="card border-0 bg-transparent">
                                     <div class="card-img-top border-radius-0 position-relative">
                                         <div class="p-absolute top-0 left-0 d-flex justify-content-end py-3 px-4 z-index-3">
@@ -52,10 +52,10 @@
                                         <a href="demo-beauty-salon-blog-post.html" class="read-more text-color-primary font-weight-semibold mt-0 text-2">Read More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                                     </div>
                                 </div>
-                            </a>
+                            </router-link>
                         </div>
                         <div class="col-md-6 mb-4">
-                            <a href="demo-beauty-salon-blog-post.html" class="text-decoration-none">
+                            <router-link href="/blogDetail" class="text-decoration-none">
                                 <div class="card border-0 bg-transparent">
                                     <div class="card-img-top border-radius-0 position-relative">
                                         <div class="p-absolute top-0 left-0 d-flex justify-content-end py-3 px-4 z-index-3">
@@ -83,10 +83,10 @@
                                         <a href="demo-beauty-salon-blog-post.html" class="read-more text-color-primary font-weight-semibold mt-0 text-2">Read More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                                     </div>
                                 </div>
-                            </a>
+                            </router-link>
                         </div>									
                         <div class="col-md-6 mb-4">
-                            <a href="demo-beauty-salon-blog-post.html" class="text-decoration-none">
+                            <router-link to="/blogDetail" class="text-decoration-none">
                                 <div class="card border-0 bg-transparent">
                                     <div class="card-img-top border-radius-0 position-relative">
                                         <div class="p-absolute top-0 left-0 d-flex justify-content-end py-3 px-4 z-index-3">
@@ -114,7 +114,7 @@
                                         <a href="demo-beauty-salon-blog-post.html" class="read-more text-color-primary font-weight-semibold mt-0 text-2">Read More <i class="fas fa-angle-right position-relative top-1 ms-1"></i></a>
                                     </div>
                                 </div>
-                            </a>
+                            </router-link>
                         </div>
                         <div class="col-md-6 mb-4">
                             <a href="demo-beauty-salon-blog-post.html" class="text-decoration-none">

@@ -30,6 +30,10 @@ const routes = [
                 path:"/contact",
                 component:() => import('./components/userPage/contact.vue')
             },
+            {
+                path:"/blogDetail",
+                component:() => import('./components/userPage/blogDetail.vue')
+            },
         ]
     },
     

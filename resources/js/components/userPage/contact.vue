@@ -42,7 +42,7 @@
         </div>
 
         <!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
-        <div id="googlemaps" class="google-map mt-5 mb-0" style="min-height: 580px;"></div>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100514.16303105585!2d2.2646349288310104!3d48.85893843460095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e1!3m2!1sfr!2sbj!4v1732797665459!5m2!1sfr!2sbj" class="google-map mt-5 mb-0"  style="border:0; min-height: 580px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         <div class="lightbox" data-plugin-options="{'delegate': '.thumb-info-action a', 'type': 'image', 'gallery': {'enabled': true}}">
             <div class="container-fluid p-0 mt-0">
