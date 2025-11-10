@@ -1,0 +1,341 @@
+{
+  "_arrow-BUfLuE4F.js": {
+    "file": "assets/arrow-BUfLuE4F.js",
+    "name": "arrow",
+    "assets": [
+      "assets/arrow-46fhW8Bw.svg"
+    ]
+  },
+  "_gallery-2-pfEjTuL0.js": {
+    "file": "assets/gallery-2-pfEjTuL0.js",
+    "name": "gallery-2",
+    "assets": [
+      "assets/gallery-2-DbkIVjg2.jpg"
+    ]
+  },
+  "_gallery-5-DW8-ixJq.js": {
+    "file": "assets/gallery-5-DW8-ixJq.js",
+    "name": "gallery-5",
+    "assets": [
+      "assets/gallery-1-DIzV8ham.jpg",
+      "assets/gallery-3-wSn803d8.jpg",
+      "assets/gallery-5-CkageMoF.jpg"
+    ]
+  },
+  "_gallery-6-DiUocb1L.js": {
+    "file": "assets/gallery-6-DiUocb1L.js",
+    "name": "gallery-6",
+    "assets": [
+      "assets/gallery-4-Bfpd4zn6.jpg",
+      "assets/gallery-6-BeFJDlRH.jpg"
+    ]
+  },
+  "_generic-10-BuI2bszz.js": {
+    "file": "assets/generic-10-BuI2bszz.js",
+    "name": "generic-10",
+    "assets": [
+      "assets/generic-6-ypZapPFE.jpg",
+      "assets/generic-7-CsvVujYR.jpg",
+      "assets/generic-8-D-3siUz6.jpg",
+      "assets/generic-9-CumCbfSy.jpg",
+      "assets/generic-10-CZB5S0Ij.jpg"
+    ]
+  },
+  "_post-thumb-2-FP6HCE0h.js": {
+    "file": "assets/post-thumb-2-FP6HCE0h.js",
+    "name": "post-thumb-2",
+    "assets": [
+      "assets/post-thumb-1-B-sdTkKE.jpg",
+      "assets/post-thumb-2-DxXGW96y.jpg"
+    ]
+  },
+  "_routes-DfDn2A9_.js": {
+    "file": "assets/routes-DfDn2A9_.js",
+    "name": "routes",
+    "dynamicImports": [
+      "resources/js/components/constant/ContentWrap.vue",
+      "resources/js/components/userPage/accueil.vue",
+      "resources/js/components/userPage/abouts.vue",
+      "resources/js/components/userPage/service.vue",
+      "resources/js/components/userPage/gallery.vue",
+      "resources/js/components/userPage/blog.vue",
+      "resources/js/components/userPage/contact.vue",
+      "resources/js/components/userPage/blogDetail.vue",
+      "resources/js/components/adminPage/home.vue"
+    ]
+  },
+  "_service-3-icon-BjkQC6zV.js": {
+    "file": "assets/service-3-icon-BjkQC6zV.js",
+    "name": "service-3-icon",
+    "assets": [
+      "assets/service-1-icon-Bb6t4hzF.svg",
+      "assets/service-2-icon-DtmMgBb4.svg",
+      "assets/service-3-icon-2xUhw05v.svg"
+    ]
+  },
+  "public/img/avatars/avatar-2.jpg": {
+    "file": "assets/avatar-J1lIMs4t.jpg",
+    "src": "public/img/avatars/avatar.jpg"
+  },
+  "public/img/avatars/avatar-3.jpg": {
+    "file": "assets/avatar-J1lIMs4t.jpg",
+    "src": "public/img/avatars/avatar.jpg"
+  },
+  "public/img/avatars/avatar-4.jpg": {
+    "file": "assets/avatar-J1lIMs4t.jpg",
+    "src": "public/img/avatars/avatar.jpg"
+  },
+  "public/img/avatars/avatar.jpg": {
+    "file": "assets/avatar-J1lIMs4t.jpg",
+    "src": "public/img/avatars/avatar.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/blog-post.jpg": {
+    "file": "assets/blog-post-FqLeSr6y.jpg",
+    "src": "public/img/demos/beauty-salon/blog/blog-post.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/post-thumb-1.jpg": {
+    "file": "assets/post-thumb-1-B-sdTkKE.jpg",
+    "src": "public/img/demos/beauty-salon/blog/post-thumb-1.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/post-thumb-2.jpg": {
+    "file": "assets/post-thumb-2-DxXGW96y.jpg",
+    "src": "public/img/demos/beauty-salon/blog/post-thumb-2.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/post-thumb-3.jpg": {
+    "file": "assets/post-thumb-3-BdNUj7CF.jpg",
+    "src": "public/img/demos/beauty-salon/blog/post-thumb-3.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/post-thumb-4.jpg": {
+    "file": "assets/post-thumb-4-DLZwPXL9.jpg",
+    "src": "public/img/demos/beauty-salon/blog/post-thumb-4.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/post-thumb-5.jpg": {
+    "file": "assets/post-thumb-5-BOpuFamx.jpg",
+    "src": "public/img/demos/beauty-salon/blog/post-thumb-5.jpg"
+  },
+  "public/img/demos/beauty-salon/blog/post-thumb-6.jpg": {
+    "file": "assets/post-thumb-6-DENdCM9H.jpg",
+    "src": "public/img/demos/beauty-salon/blog/post-thumb-6.jpg"
+  },
+  "public/img/demos/beauty-salon/gallery/gallery-1.jpg": {
+    "file": "assets/gallery-1-DIzV8ham.jpg",
+    "src": "public/img/demos/beauty-salon/gallery/gallery-1.jpg"
+  },
+  "public/img/demos/beauty-salon/gallery/gallery-2.jpg": {
+    "file": "assets/gallery-2-DbkIVjg2.jpg",
+    "src": "public/img/demos/beauty-salon/gallery/gallery-2.jpg"
+  },
+  "public/img/demos/beauty-salon/gallery/gallery-3.jpg": {
+    "file": "assets/gallery-3-wSn803d8.jpg",
+    "src": "public/img/demos/beauty-salon/gallery/gallery-3.jpg"
+  },
+  "public/img/demos/beauty-salon/gallery/gallery-4.jpg": {
+    "file": "assets/gallery-4-Bfpd4zn6.jpg",
+    "src": "public/img/demos/beauty-salon/gallery/gallery-4.jpg"
+  },
+  "public/img/demos/beauty-salon/gallery/gallery-5.jpg": {
+    "file": "assets/gallery-5-CkageMoF.jpg",
+    "src": "public/img/demos/beauty-salon/gallery/gallery-5.jpg"
+  },
+  "public/img/demos/beauty-salon/gallery/gallery-6.jpg": {
+    "file": "assets/gallery-6-BeFJDlRH.jpg",
+    "src": "public/img/demos/beauty-salon/gallery/gallery-6.jpg"
+  },
+  "public/img/demos/beauty-salon/generic/dots.svg": {
+    "file": "assets/dots-DF2PeXCI.svg",
+    "src": "public/img/demos/beauty-salon/generic/dots.svg"
+  },
+  "public/img/demos/beauty-salon/generic/generic-10.jpg": {
+    "file": "assets/generic-10-CZB5S0Ij.jpg",
+    "src": "public/img/demos/beauty-salon/generic/generic-10.jpg"
+  },
+  "public/img/demos/beauty-salon/generic/generic-6.jpg": {
+    "file": "assets/generic-6-ypZapPFE.jpg",
+    "src": "public/img/demos/beauty-salon/generic/generic-6.jpg"
+  },
+  "public/img/demos/beauty-salon/generic/generic-7.jpg": {
+    "file": "assets/generic-7-CsvVujYR.jpg",
+    "src": "public/img/demos/beauty-salon/generic/generic-7.jpg"
+  },
+  "public/img/demos/beauty-salon/generic/generic-8.jpg": {
+    "file": "assets/generic-8-D-3siUz6.jpg",
+    "src": "public/img/demos/beauty-salon/generic/generic-8.jpg"
+  },
+  "public/img/demos/beauty-salon/generic/generic-9.jpg": {
+    "file": "assets/generic-9-CumCbfSy.jpg",
+    "src": "public/img/demos/beauty-salon/generic/generic-9.jpg"
+  },
+  "public/img/demos/beauty-salon/icons/arrow.svg": {
+    "file": "assets/arrow-46fhW8Bw.svg",
+    "src": "public/img/demos/beauty-salon/icons/arrow.svg"
+  },
+  "public/img/demos/beauty-salon/icons/service-1-icon.svg": {
+    "file": "assets/service-1-icon-Bb6t4hzF.svg",
+    "src": "public/img/demos/beauty-salon/icons/service-1-icon.svg"
+  },
+  "public/img/demos/beauty-salon/icons/service-2-icon.svg": {
+    "file": "assets/service-2-icon-DtmMgBb4.svg",
+    "src": "public/img/demos/beauty-salon/icons/service-2-icon.svg"
+  },
+  "public/img/demos/beauty-salon/icons/service-3-icon.svg": {
+    "file": "assets/service-3-icon-2xUhw05v.svg",
+    "src": "public/img/demos/beauty-salon/icons/service-3-icon.svg"
+  },
+  "public/img/demos/beauty-salon/logo.png": {
+    "file": "assets/logo-Cn0sGD97.png",
+    "src": "public/img/demos/beauty-salon/logo.png"
+  },
+  "public/img/demos/beauty-salon/products/product-4.jpg": {
+    "file": "assets/product-4-LipTtAo0.jpg",
+    "src": "public/img/demos/beauty-salon/products/product-4.jpg"
+  },
+  "public/img/demos/beauty-salon/products/product-5.jpg": {
+    "file": "assets/product-5-CwPa-O5o.jpg",
+    "src": "public/img/demos/beauty-salon/products/product-5.jpg"
+  },
+  "public/img/demos/beauty-salon/products/product-6.jpg": {
+    "file": "assets/product-6-Dbt2Yf7j.jpg",
+    "src": "public/img/demos/beauty-salon/products/product-6.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-L7npDS5I.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js"
+    ]
+  },
+  "resources/js/app_admin.js": {
+    "file": "assets/app_admin-Duikt6Pi.js",
+    "name": "app_admin",
+    "src": "resources/js/app_admin.js",
+    "isEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js"
+    ]
+  },
+  "resources/js/components/adminPage/home.vue": {
+    "file": "assets/home-DQlKKomT.js",
+    "name": "home",
+    "src": "resources/js/components/adminPage/home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js"
+    ]
+  },
+  "resources/js/components/constant/ContentWrap.vue": {
+    "file": "assets/ContentWrap-BC2YOL8G.js",
+    "name": "ContentWrap",
+    "src": "resources/js/components/constant/ContentWrap.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_arrow-BUfLuE4F.js"
+    ],
+    "assets": [
+      "assets/logo-Cn0sGD97.png"
+    ]
+  },
+  "resources/js/components/userPage/abouts.vue": {
+    "file": "assets/abouts-DsULdqUP.js",
+    "name": "abouts",
+    "src": "resources/js/components/userPage/abouts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_generic-10-BuI2bszz.js"
+    ]
+  },
+  "resources/js/components/userPage/accueil.vue": {
+    "file": "assets/accueil-DwD3BEfU.js",
+    "name": "accueil",
+    "src": "resources/js/components/userPage/accueil.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_generic-10-BuI2bszz.js",
+      "_service-3-icon-BjkQC6zV.js",
+      "_arrow-BUfLuE4F.js",
+      "_post-thumb-2-FP6HCE0h.js",
+      "_gallery-5-DW8-ixJq.js",
+      "_gallery-2-pfEjTuL0.js",
+      "_gallery-6-DiUocb1L.js"
+    ],
+    "assets": [
+      "assets/dots-DF2PeXCI.svg",
+      "assets/product-4-LipTtAo0.jpg",
+      "assets/product-5-CwPa-O5o.jpg",
+      "assets/product-6-Dbt2Yf7j.jpg"
+    ]
+  },
+  "resources/js/components/userPage/blog.vue": {
+    "file": "assets/blog-DZ3KC4kU.js",
+    "name": "blog",
+    "src": "resources/js/components/userPage/blog.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_post-thumb-2-FP6HCE0h.js"
+    ],
+    "assets": [
+      "assets/post-thumb-3-BdNUj7CF.jpg",
+      "assets/post-thumb-4-DLZwPXL9.jpg",
+      "assets/post-thumb-5-BOpuFamx.jpg",
+      "assets/post-thumb-6-DENdCM9H.jpg"
+    ]
+  },
+  "resources/js/components/userPage/blogDetail.vue": {
+    "file": "assets/blogDetail-M9AloB98.js",
+    "name": "blogDetail",
+    "src": "resources/js/components/userPage/blogDetail.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js"
+    ],
+    "assets": [
+      "assets/blog-post-FqLeSr6y.jpg",
+      "assets/avatar-J1lIMs4t.jpg"
+    ]
+  },
+  "resources/js/components/userPage/contact.vue": {
+    "file": "assets/contact-CD_4VDLG.js",
+    "name": "contact",
+    "src": "resources/js/components/userPage/contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_gallery-6-DiUocb1L.js"
+    ]
+  },
+  "resources/js/components/userPage/gallery.vue": {
+    "file": "assets/gallery-oGK9FTDP.js",
+    "name": "gallery",
+    "src": "resources/js/components/userPage/gallery.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_gallery-5-DW8-ixJq.js",
+      "_gallery-2-pfEjTuL0.js",
+      "_gallery-6-DiUocb1L.js"
+    ]
+  },
+  "resources/js/components/userPage/service.vue": {
+    "file": "assets/service-D1BLsqAx.js",
+    "name": "service",
+    "src": "resources/js/components/userPage/service.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_routes-DfDn2A9_.js",
+      "_service-3-icon-BjkQC6zV.js",
+      "_gallery-2-pfEjTuL0.js",
+      "_gallery-6-DiUocb1L.js"
+    ]
+  }
+}
